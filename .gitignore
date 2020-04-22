@@ -1,3 +1,6 @@
+*.swp
+venv/
+.vscode/
 /vendor/
 node_modules/
 npm-debug.log
